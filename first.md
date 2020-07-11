@@ -1,1 +1,1 @@
-##First try for a MD file
+print("##First try for a MD file")
